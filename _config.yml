@@ -2,12 +2,13 @@ name: redq.ME
 favicon: null
 layout_spectrum: 0.47325322730466723
 typography_spectrum: 0.7503703671973199
+title: Things I make and the things that make me
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-75056967-1
   facebook: null
   twitter: null
 opengraph:
