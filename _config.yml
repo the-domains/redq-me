@@ -1,29 +1,41 @@
-name: redq.ME
-favicon: null
-layout_spectrum: 0.39145
-typography_spectrum: 0.7503703671973199
 title: Things I make and the things that make me
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.6844199181068689
+  brandStrength: 0.232984276721254
+  lightness: 0.6770211770199239
+  brandColors:
+    - '#2F3A4C'
+    - '#5380BD'
+    - '#9ABBE2'
+    - '#C5B599'
+    - '#FFE1BC'
+  rhythmicContrast: 0.2378319269046187
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: UA-75056967-1
   facebook: null
-  twitter: null
+name: redq.ME
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#7b8e8a'
-    - '#4c535d'
-    - '#a6b3aa'
-    - '#dfe2d7'
-    - '#2a3046'
-  brandStrength: 0.232984276721254
-  lightness: 0.6770211770199239
-  saturation: 0.6844199181068689
-  rhythmicContrast: 0.23783192690461874
-purpose: []
+typography_spectrum: 0.7503703671973199
+layout_spectrum: 0.39145
