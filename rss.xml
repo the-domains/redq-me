@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[redq.ME]]></title>
+        <description><![CDATA[redq.ME]]></description>
+        <link>https://thegrid.ai/redq-me/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 13 Mar 2016 21:47:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/redq-me/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The big picture]]></title>
+            <description><![CDATA[<article><h1>The big picture</h1><p>Having introduced the new libary in a previous post, I thought it might be helpful to describe the overall architecture of the library. The top-most package contains the main algorithm and interface definitions. Actual implementations are create in sub-packages.</p></article>]]></description>
+            <link>https://thegrid.ai/redq-me/the-big-picture/index.html</link>
+            <guid isPermaLink="false">62cb3679-4d63-4f4e-9826-f4d318cf823f</guid>
+            <pubDate>Sun, 13 Mar 2016 21:46:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Starting with the end game]]></title>
+            <description><![CDATA[<article><h1>Starting with the end game</h1><p>A couple of years back, I decided to learn Go by implementing a new NEAT distribution from scratch. My plan was to use just Stanley and Miikkulainen's paper as a guide and deliver a flexible Go package. Well, the journey took a lot longer than expected and what I ended up creating was only just mildly flexible and not very good Go code either. So let's consider this a NEAT for Go reboot and, this, time giving it a fancy new name: redq.NEAT. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4c72ed1c044f6b999e6f26a7cbb76f9e2f45764.jpg"></article>]]></description>
+            <link>https://thegrid.ai/redq-me/starting-with-the-end-game/index.html</link>
+            <guid isPermaLink="false">0f06ea28-71e5-4ca5-80df-68a943a3e893</guid>
+            <pubDate>Sun, 13 Mar 2016 21:46:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
