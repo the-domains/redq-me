@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Simplifying things by always building Networks using Substrates
-datePublished: '2016-03-13T21:46:26.347Z'
-dateModified: '2016-03-13T21:45:51.391Z'
+description: "A couple of years back, I decided to learn Go by implementing a new NEAT distribution from scratch. My plan was to use just Stanley and Miikkulainen's paper as a guide and deliver a flexible Go package. Well, the journey took a lot longer than expected and what I ended up creating was only just mildly flexible and not very good Go code either. So let's consider this a NEAT for Go reboot and, this, time giving it a fancy new name: redq.NEAT.\_"
+datePublished: '2016-03-13T21:59:01.356Z'
+dateModified: '2016-03-13T21:57:45.400Z'
 title: Starting with the end game
 author: []
 authors: []
@@ -23,6 +23,7 @@ _type: Article
 
 ---
 A couple of years back, I decided to learn [Go][0] by implementing a new [NEAT][1] distribution from scratch. My plan was to use just [Stanley and Miikkulainen's paper][2] as a guide and deliver a flexible Go package. Well, the journey took a lot longer than expected and what I ended up creating was only just mildly flexible and not very good Go code either. So let's consider this a NEAT for Go reboot and, this, time giving it a fancy new name: redq.NEAT. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/41e485ef-d86b-4015-b308-4b105e610cf1.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4923050e-ce6c-4c54-a0d6-716e46097fcf.jpg)
 
 Having been through that experience, though, did give me some insignts into how I could better approach the library. I had gone all the way down the path of not just NEAT but also HyperNEAT and Novelty Search so I can now think of those things as core concepts of the library and make decisions which incorporate these newer ideas into the heart of what I am building.
 
